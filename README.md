@@ -6,4 +6,4 @@
 
 ---
 
-Credit: Translated words from Anirban brother Github. His [github](http://github.com/anirban12d)
+Credit: Translated words from Minas Kamal brother Github. His [github](https://github.com/MinhasKamal/BengaliDictionary)
